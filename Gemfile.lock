@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chroma (0.2.0)
+    lazy_priority_queue (0.1.1)
+    narray (0.6.1.2)
+    pgm (0.0.1)
+      narray (~> 0.6)
+      rgl (~> 0.5)
+    rgl (0.5.3)
+      lazy_priority_queue (~> 0.1.0)
+      stream (~> 0.5.0)
+    stream (0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chroma
+  pgm
+
+RUBY VERSION
+   ruby 2.4.1p111
+
+BUNDLED WITH
+   1.16.0
